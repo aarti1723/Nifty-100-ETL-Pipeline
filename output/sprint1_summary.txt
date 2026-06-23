@@ -1,0 +1,53 @@
+Sprint 1 Summary – Nifty100 ETL Project
+
+Completed Deliverables:
+
+* Created SQLite database (nifty100.db)
+* Implemented schema.sql with 10 tables
+* Loaded all source Excel files using loader.py
+* Generated load_audit.csv
+* Generated validation_failures.csv
+* Implemented data normalisation in normaliser.py
+* Implemented DQ validation rules (DQ01–DQ06)
+* Executed foreign key validation
+* Performed manual review on 5 companies
+* Created exploratory_queries.sql
+* Created and executed unit tests for normalisation functions
+
+Database Statistics:
+
+* companies = 92
+* profitandloss = 1177
+* balancesheet = 1227
+* cashflow = 1091
+* analysis = 16
+* documents = 1457
+* prosandcons = 14
+* sectors = 92
+* stock_prices = 5520
+* financial_ratios = 1160
+* peer_groups = 56
+
+Validation:
+
+* Foreign key check passed
+* Primary key validation executed
+* Company-year validation executed
+* Positive sales validation executed
+* Balance sheet validation executed
+* OPM validation executed
+
+Testing:
+
+* 38 unit tests passed successfully
+
+Manual Review:
+
+* ABB
+* RELIANCE
+* TCS
+* HDFCBANK
+* INFY
+
+Sprint Status:
+Sprint 1 completed successfully.
