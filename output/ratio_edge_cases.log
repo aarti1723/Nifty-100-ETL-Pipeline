@@ -1,0 +1,30 @@
+Ratio Edge Cases - Sprint 2
+
+1. ROE
+- Negative equity returns None.
+- Zero equity handled correctly.
+
+2. Net Profit Margin
+- Sales = 0 returns None.
+
+3. Operating Profit Margin
+- Sales = 0 returns None.
+
+4. Debt to Equity
+- Debt-free companies return 0.
+- Financial sector companies exempted from high leverage warning.
+
+5. Interest Coverage
+- Interest = 0 returns None.
+- Debt-free companies labelled as Debt Free.
+
+6. CAGR
+- Positive to Positive: Calculated normally.
+- Positive to Negative: Decline to Loss.
+- Negative to Positive: Turnaround.
+- Negative to Negative: Not Calculated.
+- Zero Base: Not Calculated.
+- Insufficient Years: Not Calculated.
+
+Status:
+All ratio edge cases reviewed successfully.
