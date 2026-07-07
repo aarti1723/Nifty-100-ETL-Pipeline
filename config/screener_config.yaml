@@ -1,0 +1,10 @@
+filters:
+
+  return_on_equity_pct:
+    min: 15
+
+  debt_to_equity:
+    max: 1
+
+  operating_profit_margin_pct:
+    min: 10
