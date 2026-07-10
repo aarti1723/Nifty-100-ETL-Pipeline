@@ -1,9 +1,9 @@
+import yaml
 import pandas as pd
 import sqlite3
 
 from src.screener.scoring import sector_composite
 from src.screener.presets import (
-    quality_compounder,
     value_pick,
     growth_accelerator,
     dividend_champion,
@@ -12,30 +12,53 @@ from src.screener.presets import (
 )
 
 
+def load_config():
+    with open("config/screener_config.yaml", "r") as f:
+        return yaml.safe_load(f)
+
+
 def load_data():
     conn = sqlite3.connect("db/nifty100.db")
 
     query = """
-    SELECT *
-    FROM financial_ratios fr
-    JOIN profitandloss pl
-        ON fr.company_id = pl.company_id
-        AND fr.year = pl.year
-    JOIN balancesheet bs
-        ON fr.company_id = bs.company_id
-        AND fr.year = bs.year
-    """
+WITH latest AS (
+    SELECT
+        company_id,
+        MAX(year) AS year
+    FROM financial_ratios
+    GROUP BY company_id
+)
+
+SELECT *
+FROM financial_ratios fr
+JOIN latest l
+    ON fr.company_id = l.company_id
+   AND fr.year = l.year
+JOIN profitandloss pl
+    ON fr.company_id = pl.company_id
+   AND fr.year = pl.year
+JOIN balancesheet bs
+    ON fr.company_id = bs.company_id
+   AND fr.year = bs.year
+"""
 
     df = pd.read_sql(query, conn)
     conn.close()
     return df
 
 
-def quality_compounder(df):
+def quality_compounder(df, config):
+
+    roe = config["filters"]["return_on_equity_pct"]["min"]
+    de = config["filters"]["debt_to_equity"]["max"]
+    opm = config["filters"]["operating_profit_margin_pct"]["min"]
+
     return df[
-        (df["return_on_equity_pct"] > 15)
+        (df["return_on_equity_pct"] > roe)
         &
-        (df["debt_to_equity"] < 1)
+        (df["debt_to_equity"] < de)
+        &
+        (df["operating_profit_margin_pct"] > opm)
     ]
 
 
@@ -60,10 +83,12 @@ def composite_score(df):
 
 if __name__ == "__main__":
 
+    config = load_config()
+
     df = load_data()
 
     screeners = {
-        "Quality Compounder": quality_compounder(df),
+        "Quality Compounder": quality_compounder(df, config),
         "Value Pick": value_pick(df),
         "Growth Accelerator": growth_accelerator(df),
         "Dividend Champion": dividend_champion(df),
@@ -86,4 +111,4 @@ if __name__ == "__main__":
 
             print(f"{name}: {len(screener_df)} companies")
 
-    print("\nSprint 3 Day 16 completed successfully.")
+    print("\nSprint 3 completed successfully.")
