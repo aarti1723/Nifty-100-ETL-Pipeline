@@ -1,0 +1,21 @@
+company_id,broad_sector,cfo_quality_label,capex_intensity_pct,fcf_conversion_pct,distress_flag,deleveraging_flag,capital_allocation_label
+AXISBANK,Financials,Accrual Risk,162.03420342034204,-62.03420342034204,YES,NO,Cash Generator
+BAJAJFINSV,Financials,Moderate,15.959460640125812,84.04053935987419,YES,NO,Distress Signal
+BAJFINANCE,Financials,Moderate,9.855689939527213,90.14431006047279,YES,NO,Distress Signal
+BANKBARODA,Financials,Moderate,20.481351609818297,79.5186483901817,YES,NO,Distress Signal
+BHEL,Industrials,High Quality,35.84702396983571,64.15297603016428,YES,YES,Distress Signal
+CHOLAFIN,Financials,Moderate,8.001008883782193,91.99899111621781,YES,NO,Distress Signal
+GRASIM,Industrials,Accrual Risk,215.63578692042168,-115.6357869204217,YES,NO,Cash Generator
+ICICIPRULI,Financials,Accrual Risk,101.43540669856459,-1.4354066985645932,YES,YES,Cash Generator
+INDUSINDBK,Financials,Moderate,3.7107403669180075,96.289259633082,YES,NO,Distress Signal
+JIOFIN,Financials,Accrual Risk,212.53687315634218,-112.53687315634218,YES,YES,Cash Generator
+M&M,Consumer Discretionary,Moderate,99.7335701598579,0.2664298401420959,YES,NO,Distress Signal
+PFC,Financials,Moderate,3.48497239828256,96.51502760171743,YES,NO,Distress Signal
+PNB,Financials,Moderate,5.390314613980458,94.60968538601954,YES,NO,Distress Signal
+PNB,Financials,Moderate,5.390314613980458,94.60968538601954,YES,NO,Distress Signal
+PNB,Financials,Moderate,5.390314613980458,94.60968538601954,YES,NO,Distress Signal
+PNB,Financials,Moderate,5.390314613980458,94.60968538601954,YES,NO,Distress Signal
+PNB,Financials,Moderate,5.390314613980458,94.60968538601954,YES,NO,Distress Signal
+RECLTD,Financials,Moderate,3.172045804965092,96.8279541950349,YES,NO,Distress Signal
+SHRIRAMFIN,Financials,Moderate,0.8295553197646377,99.17044468023536,YES,NO,Distress Signal
+TVSMOTOR,Consumer Discretionary,Moderate,79.88826815642457,20.11173184357542,YES,NO,Distress Signal

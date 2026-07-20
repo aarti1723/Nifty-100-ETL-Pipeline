@@ -1,0 +1,261 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ABB,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ABB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ABB,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ADANIENSOL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ADANIENSOL,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIENSOL,Pro,P5,High operating margin indicates strong pricing power.,82
+ADANIENSOL,Con,C1,High debt-to-equity ratio requires monitoring.,90
+ADANIENT,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIENT,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+ADANIGREEN,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIGREEN,Pro,P5,High operating margin indicates strong pricing power.,82
+ADANIGREEN,Con,C1,High debt-to-equity ratio requires monitoring.,90
+ADANIGREEN,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+ADANIPORTS,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ADANIPORTS,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIPORTS,Pro,P5,High operating margin indicates strong pricing power.,82
+ADANIPORTS,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ADANIPORTS,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIPORTS,Pro,P5,High operating margin indicates strong pricing power.,82
+ADANIPOWER,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ADANIPOWER,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ADANIPOWER,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ADANIPOWER,Pro,P5,High operating margin indicates strong pricing power.,82
+AMBUJACEM,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+AMBUJACEM,Con,C5,Low revenue growth indicates weak business momentum.,80
+APOLLOHOSP,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ASIANPAINT,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ASIANPAINT,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ASIANPAINT,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ASIANPAINT,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BAJAJ-AUTO,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BAJAJ-AUTO,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BAJAJ-AUTO,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BAJAJ-AUTO,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+AXISBANK,Pro,P5,High operating margin indicates strong pricing power.,82
+AXISBANK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+AXISBANK,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BAJAJFINSV,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BAJAJFINSV,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+BAJAJFINSV,Pro,P5,High operating margin indicates strong pricing power.,82
+BAJAJFINSV,Con,C1,High debt-to-equity ratio requires monitoring.,90
+BAJAJFINSV,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BAJAJHLDNG,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BAJAJHLDNG,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+BAJAJHLDNG,Pro,P5,High operating margin indicates strong pricing power.,82
+BAJFINANCE,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+BAJFINANCE,Pro,P5,High operating margin indicates strong pricing power.,82
+BAJFINANCE,Con,C1,High debt-to-equity ratio requires monitoring.,90
+BAJFINANCE,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BANKBARODA,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+BANKBARODA,Pro,P5,High operating margin indicates strong pricing power.,82
+BANKBARODA,Con,C1,High debt-to-equity ratio requires monitoring.,90
+BANKBARODA,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BHARTIARTL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BHARTIARTL,Pro,P5,High operating margin indicates strong pricing power.,82
+BHARTIARTL,Con,C1,High debt-to-equity ratio requires monitoring.,90
+BEL,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BEL,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BHEL,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+BHEL,Con,C5,Low revenue growth indicates weak business momentum.,80
+BOSCHLTD,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BOSCHLTD,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BPCL,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BPCL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+BRITANNIA,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+BRITANNIA,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+CANBK,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+CANBK,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+CANBK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+CHOLAFIN,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+CHOLAFIN,Pro,P5,High operating margin indicates strong pricing power.,82
+CHOLAFIN,Con,C1,High debt-to-equity ratio requires monitoring.,90
+CHOLAFIN,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+CIPLA,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+CIPLA,Pro,P5,High operating margin indicates strong pricing power.,82
+COALINDIA,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+COALINDIA,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+COALINDIA,Pro,P5,High operating margin indicates strong pricing power.,82
+DABUR,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+DIVISLAB,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+DIVISLAB,Pro,P5,High operating margin indicates strong pricing power.,82
+DLF,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+DLF,Pro,P5,High operating margin indicates strong pricing power.,82
+DLF,Con,C5,Low revenue growth indicates weak business momentum.,80
+DMART,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+DMART,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+DRREDDY,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+DRREDDY,Pro,P5,High operating margin indicates strong pricing power.,82
+EICHERMOT,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+EICHERMOT,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+EICHERMOT,Pro,P5,High operating margin indicates strong pricing power.,82
+GAIL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+GODREJCP,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+GRASIM,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+HAL,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+HAL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HAL,Pro,P5,High operating margin indicates strong pricing power.,82
+HAVELLS,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HCLTECH,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+HCLTECH,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HDFCBANK,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HDFCBANK,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+HDFCBANK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+HDFCBANK,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+HDFCLIFE,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+HDFCLIFE,Pro,P5,High operating margin indicates strong pricing power.,82
+HDFCLIFE,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+HEROMOTOCO,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+HEROMOTOCO,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HEROMOTOCO,Pro,P5,High operating margin indicates strong pricing power.,82
+HEROMOTOCO,Con,C5,Low revenue growth indicates weak business momentum.,80
+HINDALCO,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HINDALCO,Pro,P5,High operating margin indicates strong pricing power.,82
+HINDUNILVR,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+HINDUNILVR,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+HINDUNILVR,Pro,P5,High operating margin indicates strong pricing power.,82
+ICICIBANK,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ICICIBANK,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+ICICIBANK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+ICICIBANK,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+ICICIGI,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ICICIGI,Pro,P5,High operating margin indicates strong pricing power.,82
+ICICIPRULI,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ICICIPRULI,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+INDUSINDBK,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+INDUSINDBK,Pro,P5,High operating margin indicates strong pricing power.,82
+INDUSINDBK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+INDUSINDBK,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+INFY,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+INFY,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+IOC,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+IOC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+IRCTC,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+IRCTC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+IRCTC,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+IRCTC,Pro,P5,High operating margin indicates strong pricing power.,82
+IRFC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+IRFC,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+IRFC,Pro,P5,High operating margin indicates strong pricing power.,82
+IRFC,Con,C1,High debt-to-equity ratio requires monitoring.,90
+IRFC,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+ITC,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+ITC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+ITC,Pro,P5,High operating margin indicates strong pricing power.,82
+JINDALSTEL,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+JINDALSTEL,Con,C5,Low revenue growth indicates weak business momentum.,80
+JIOFIN,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+JIOFIN,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+JIOFIN,Pro,P5,High operating margin indicates strong pricing power.,82
+JSWENERGY,Pro,P5,High operating margin indicates strong pricing power.,82
+JSWENERGY,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+JSWENERGY,Con,C5,Low revenue growth indicates weak business momentum.,80
+JSWSTEEL,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+JSWSTEEL,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+KOTAKBANK,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+KOTAKBANK,Con,C1,High debt-to-equity ratio requires monitoring.,90
+KOTAKBANK,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+LICI,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+LICI,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+LICI,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+LODHA,Pro,P5,High operating margin indicates strong pricing power.,82
+LODHA,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+LODHA,Con,C5,Low revenue growth indicates weak business momentum.,80
+LT,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+LT,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+LTIM,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+LTIM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+LTIM,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+M&M,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+MARUTI,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+MOTHERSON,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+NAUKRI,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+NAUKRI,Pro,P5,High operating margin indicates strong pricing power.,82
+NAUKRI,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+NESTLEIND,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+NESTLEIND,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+NHPC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+NHPC,Pro,P5,High operating margin indicates strong pricing power.,82
+NHPC,Con,C5,Low revenue growth indicates weak business momentum.,80
+NTPC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+NTPC,Pro,P5,High operating margin indicates strong pricing power.,82
+ONGC,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+PFC,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PFC,Pro,P5,High operating margin indicates strong pricing power.,82
+PFC,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PFC,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+PFC,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+PIDILITIND,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PIDILITIND,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+PNB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+PNB,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PNB,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+PNB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+PNB,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PNB,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+PNB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+PNB,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PNB,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+PNB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+PNB,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PNB,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+PNB,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+PNB,Con,C1,High debt-to-equity ratio requires monitoring.,90
+PNB,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+POWERGRID,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+POWERGRID,Pro,P5,High operating margin indicates strong pricing power.,82
+POWERGRID,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+POWERGRID,Pro,P5,High operating margin indicates strong pricing power.,82
+RECLTD,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+RECLTD,Pro,P5,High operating margin indicates strong pricing power.,82
+RECLTD,Con,C1,High debt-to-equity ratio requires monitoring.,90
+RECLTD,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+RELIANCE,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+SBILIFE,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+SBILIFE,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+SBILIFE,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+SHREECEM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+SHRIRAMFIN,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+SHRIRAMFIN,Pro,P5,High operating margin indicates strong pricing power.,82
+SHRIRAMFIN,Con,C1,High debt-to-equity ratio requires monitoring.,90
+SHRIRAMFIN,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+SHRIRAMFIN,Con,C3,Low Interest Coverage indicates debt servicing risk.,85
+SUNPHARMA,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+SUNPHARMA,Pro,P5,High operating margin indicates strong pricing power.,82
+TATACONSUM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TATACONSUM,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+TATAMOTORS,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TATAMOTORS,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TATAPOWER,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TATAPOWER,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+TATASTEEL,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TCS,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TCS,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TCS,Pro,P5,High operating margin indicates strong pricing power.,82
+TECHM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TECHM,Con,C4,Dividend payout above 100% may not be sustainable.,82
+TECHM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TECHM,Con,C4,Dividend payout above 100% may not be sustainable.,82
+TITAN,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TITAN,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TITAN,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+TORNTPHARM,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TORNTPHARM,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TORNTPHARM,Pro,P5,High operating margin indicates strong pricing power.,82
+TRENT,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TRENT,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+TRENT,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+TVSMOTOR,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+TVSMOTOR,Con,C1,High debt-to-equity ratio requires monitoring.,90
+TVSMOTOR,Con,C2,Negative Free Cash Flow raises cash generation concerns.,88
+INDIGO,Pro,P1,Consistently high ROE indicates efficient capital utilisation.,90
+INDIGO,Pro,P2,Positive Free Cash Flow reflects healthy business fundamentals.,85
+INDIGO,Pro,P4,Revenue CAGR above 15% reflects strong business growth.,88
+INDIGO,Pro,P5,High operating margin indicates strong pricing power.,82
